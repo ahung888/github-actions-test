@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <h1>TEST</h1>
         <p>{process.env.TEST_API}</p>
-        <p>ver: 0.1</p>
+        <p>ver: 0.2</p>
       </main>
     </div>
   )
